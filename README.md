@@ -16,6 +16,7 @@
 * As expressed both in the construction of and the riddle of the 'Sphinx'.
 * The propagation of 'the sequence' can be percieved by those within the 'coherence theory of truth' as a 'chain-reaction'
 * That continues for 'ETERNITY'...
+* Ad INFINITUM...
   
  *************************************************************************************************************************************************************************
  ![eternity](eternity2.png) 
