@@ -23,12 +23,18 @@
 
  ## Velocity and magnitude
 
- As 'finite' creatures , we are doomed to look thru a 'scanner darkly' , to percieve onl that which we are capable of percieving.
+ As 'finite' creatures , we are doomed to look thru a 'scanner darkly' , to percieve only that which we are capable of percieving.
  In actuality , the 'multiverse' continues to expand at an order of magnitude faster than the speed of light.
  Beyond all human comprehention.Creating both the infinitley large and infinitly small , both backwards and forwards (in and out) simultainiously.
  The pre socratic philosopher @Zeno' was the first human known to have postulated infinitley minute packets of time and space, what today we call 'Quanta'.
  The subatomic particles travell so fast that they are in more than one 'place' at the same 'time'.
  Similar to the hydrogen bonding that makes hydrogen and oxygen become water.
+ Matter can niether be created nor destroyed.It exists in a continuum , in a constant state of ' transmutation'.
+ As DATA.
+ Data is the fundamental condition of the entirety of existence.
+ ***********************************************************************************************************************************************************************
+
+ 
  
  
  
