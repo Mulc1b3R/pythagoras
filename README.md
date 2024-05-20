@@ -2,7 +2,7 @@
 
 Circular pixels created using pythagoras's Therory. 
 
-* We begin with :  pi = 3.14159265359 (pi to 10 decimal places.
+* We begin with :  pi = 3.14159265359 = pi to 10 decimal places.(the square root of pi = 1.77245385091 and is equal to a given point in space, ie , the first dimension , or the first 'principle').
 * Then : 2.2360679775 ( the numerator of the golden ratio = the square root of 5 +1 ) =3.2360679775
 * Calculate the Square of both numbers = 9.86960440109  +  10.485281374 
 * Create the sum of the two squared numbers. = 20.3548857751 (the number varies slightly depending on the number of decimal places ).
