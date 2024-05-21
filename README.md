@@ -33,7 +33,27 @@
  As DATA.
  Data is the fundamental condition of the entirety of existence.
  ***********************************************************************************************************************************************************************
-## 
+## reciprocal
+
+ The reciprical 0f sqrt(π^2 + (n + 1)^2) = [ \frac{1}{\sqrt{\pi^2 + (n + 1)^2}} ] 
+
+given that [ n = 2.2360679775 ] (the square root of 5).
+
+ [ \frac{1}{\sqrt{\pi^2 + (2.2360679775 + 1)^2}} = \frac{1}{\sqrt{\pi^2 + 3.2360679775^2}} = \frac{1}{\sqrt{\pi^2 + 10.4721359569}} ]
+
+We Calculate the expression:
+
+\[ \frac{1}{\sqrt{\pi^2 + 10.4721359569}} \]
+
+Using the value of \( \pi \approx 3.14159 \), we have:
+
+\[ \frac{1}{\sqrt{3.14159^2 + 10.4721359569}} = \frac{1}{\sqrt{9.869587132 + 10.4721359569}} = \frac{1}{\sqrt{20.3417230889}} \]
+
+Calculating the square root of 20.3417230889 gives approximately 4.50924975222.
+
+Therefore, the reciprocal of \( \sqrt{\pi^2 + 10.4721359569} \) is approximately \( \frac{1}{4.50924975222} \), which evaluates to approximately 0.22164894331.
+
+ \( n = 2.2360679775 \), the reciprocal of \( \sqrt{\pi^2 + (n + 1)^2} \)  = 0.22164894331.
  
  
  
