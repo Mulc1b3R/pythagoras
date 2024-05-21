@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generative Circles</title>
+   <style>
+        canvas {
+            border: 2px solid lime;
+            background-color: black; /* Set canvas background color to black */
+        }
+		body {
+			background:black;
+		    color: white;
+      }
+    </style>
+</head>
+<body>
+    <canvas id="myCanvas" width="1500" height="700"></canvas>
+    
+    <label for="circleCount">Number of Circles:</label>
+    <input type="number" id="circleCount" min="1" value="10">
+    <label for="colorSelect">Select Color:</label>
+    <select id="colorSelect">
+        <option value="red">Red</option>
+        <option value="blue">Blue</option>
+        <option value="green">Green</option>
+		<option value="orange">Orange</option>
+		 <option value="cyan">Cyan</option>
+		<option value="pink">Pink</option>
+		<option value="lime">Lime</option>
+		<option value="purple">Purple</option>
+    </select>
+	<button onclick="generateCircles()">Start Sequence Generator</button>
+    <button onclick="renderCircles()">Render Circles</button>
+
+    <script src="script.js"></script>
+	<script src="grow.js"></script>
+</body>
+</html>
