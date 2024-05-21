@@ -1,6 +1,8 @@
 # pythagoras  
 
-```sqrt(π^2 + (n + 1)^2)  ```
+   ```[n = Φ * 2]```                
+   
+   ```sqrt(π^2 + (n + 1)^2)  ```
 
 Pixel generator based on pythagorean theory : π² = 9.86960440109 + 10.485281374 (the square of the numerator of the golden ratio, or √ 5 ).
 = 20.3548857751 then √  20.3548857751 =   4.5116389234
