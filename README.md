@@ -4,8 +4,13 @@
    
    ```sqrt(π^2 + (n + 1)^2)  ```  The square root of the sum of pi squared  and  n plus 1 squared.
 
-Pixel generator based on pythagorean theory : π² = 9.86960440109 + 10.485281374 (the square of the numerator of the golden ratio, or √ 5 ).
-= 20.3548857751 then √  20.3548857751 =   4.5116389234
+Pixel generator based on pythagorean theory :
+
+* π^2 = 9.86960440109 
+* n+1^2 =  10.485281374 
+* π^2 + n+1^2  = 20.3548857751 
+* √  20.3548857751 
+* =   4.5116389234
 **************************************************************************************************************************************************************************************
 ## Sequence
 The sequence : 3.1415926535, 3.236067977, 4.510566367, 5.55252107831, 7.15371926177, 9.05572689525 and so on to ∞ (infinity).
