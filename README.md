@@ -8,7 +8,7 @@ The sequence : 3.1415926535, 3.236067977, 4.510566367, 5.55252107831, 7.15371926
 
 The sequence is 'self-generting' and produces orders of magnitude that are not only proportionate to each other but proportionate to the whole at any given 'moment' in time.
 Based on Euclid's "Transitive Property of Equality" , Pythagoras's "Theory of proportion" and the 'Golden Ratio' (Φ) (1.618033988750  multiplied by first integer that ≠ unity (2).
-(Turning phi (Φ) back into it's 'numerator' to = √ 5 .
+(Turning phi (Φ) back into it's 'numerator' , ie (√ 5 +1) or { Φ * 2 } therfore : √ ( [ n = Φ * 2]^2 + π^2 )
 The Formulea contains the "Keys" of almost all works of art and architecture (and nature) from the "Hanging gardens of Babylon" and "Solomon's Temple" to the discovery of quasicrystals with
 icosahedral symmetry in the 1980's .
 **********************************************************************************************************************************************************************
