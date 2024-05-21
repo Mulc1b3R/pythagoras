@@ -14,7 +14,7 @@ icosahedral symmetry in the 1980's .
 **********************************************************************************************************************************************************************
 ![goldenn ration](pixels.png) 
 
-### The first principle.
+### META PHYSICS :The first principle.
 
 * We begin with :  pi = 3.14159265359 = pi to 10 decimal places.(the square root of pi = 1.77245385091 and is equal to a given point in space, ie , the first dimension , or the first 'principle').
 * and is both without dimension and outside of , prior to or devoid of 'TIME'. In Modern theory it represents that which preceeds the 'BIG BANG'.
