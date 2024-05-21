@@ -13,16 +13,20 @@ Pixel generator based on pythagorean theory :
 * =   4.5116389234
 **************************************************************************************************************************************************************************************
 ## Sequence
+One the third number in the sequence is generated the succeeding numbers follow the equation :
+
+```√ (a^2 + b^2)```  Where a and b represent the last two numbers in the sequence.
+
 The sequence : 3.1415926535, 3.236067977, 4.510566367, 5.55252107831, 7.15371926177, 9.05572689525 and so on to ∞ (infinity).
 
 The sequence is 'self-generting' and produces orders of magnitude that are not only proportionate to each other but proportionate to the whole at any given 'moment' in time.
 Based on Euclid's "Transitive Property of Equality" , Pythagoras's "Theory of proportion" and the 'Golden Ratio' (Φ) 
-The Formulea contains the "Keys" of almost all works of art and architecture (and nature) from the "Hanging gardens of Babylon" and "Solomon's Temple" to the discovery of quasicrystals with
-icosahedral symmetry in the 1980's .
+The Formulea contains the "Keys" of almost all works of art and architecture (and nature) from Stonehenge to 'Vitruvian man' to the discovery of quasicrystals with
+icosahedral symmetry in the 1980's thru to present day.
 **********************************************************************************************************************************************************************
 ![goldenn ration](pixels.png) 
 
-### META PHYSICS :The first principle.
+### METAPHYSICS : The first principle.
 
 * We begin with :  pi = 3.14159265359 = pi to 10 decimal places.(the square root of pi = 1.77245385091 and is equal to a given point in space, ie , the first dimension , or the first 'principle').
 * and is both without dimension and outside of , prior to or devoid of 'TIME'. In Modern theory it represents that which preceeds the 'BIG BANG'.
