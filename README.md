@@ -13,7 +13,7 @@ Pixel generator based on pythagorean theory :
 * =   4.5116389234
 **************************************************************************************************************************************************************************************
 ## Sequence
-One the third number in the sequence is generated the succeeding numbers follow the equation :
+Once the third number in the sequence is generated the succeeding numbers follow the equation :
 
 ```√ (a^2 + b^2)```  Where a and b represent the last two numbers in the sequence.
 
