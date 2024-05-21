@@ -1,6 +1,6 @@
 const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
-const sequence = [3.1415926535, 3.236067977, 4510566367, 5.55252107831, 7.15371926177, 9.05572689525];
+const sequence = [3.1415926535, 3.236067977, 4.510566367, 5.55252107831, 7.15371926177, 9.05572689525];
 let circles = [];
 let colors = ['red', 'blue', 'green', 'orange', 'pink', 'cyan', 'lime', 'purple', 'yellow', 'teal', 'magenta', 'violet', 'turquoise', 'maroon', 'gold', 'silver'];
 let colorIndex = 0; // Color index to cycle through the colors
