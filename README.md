@@ -33,7 +33,7 @@ icosahedral symmetry in the 1980's thru to present day.
 
 
  ***********************************************************************************************************************************************************************
-## reciprocal
+## Reciprocal
 
  The reciprical 0f sqrt(π^2 + (n + 1)^2) = [ \frac{1}{\sqrt{\pi^2 + (n + 1)^2}} ] 
 
@@ -57,6 +57,6 @@ Therefore, the reciprocal of \( \sqrt{\pi^2 + 10.4721359569} \) is approximately
  
  
  
- 
+ Mulciber
  
  
