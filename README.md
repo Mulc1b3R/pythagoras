@@ -1,6 +1,6 @@
 # pythagoras
 
-![goldenn ration](poitilism.png) 
+![goldenn ration](pixels.png) 
 
 ### The first principle.
 
